@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-osman&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-osman" /> </p>
 
-
+<p align="left"> <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" alt="mostafa-osman" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
