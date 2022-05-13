@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Mostafa</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h2 align="center">A passionate flutter developer from Egypt <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ea-1f1ec.png"width=30/>
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-osman&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-osman" /> </p>
 
