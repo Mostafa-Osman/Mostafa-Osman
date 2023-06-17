@@ -15,7 +15,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mostafaosman15)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MostafaOsman225)
  <a href="mailto:mostafaosman225@gmail.com?subject=Hello%20Hadi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>&nbsp;
-[<img align='right' src="https://i.ibb.co/nk9gvXz/xero-code.gif" width="20%" alt="giphy">](https://t.me/Legend000001)
+[<img align='right' src="https://i.ibb.co/nk9gvXz/xero-code.gif" width="20%" alt="giphy">]
 [![Visits Badge](https://komarev.com/ghpvc/?username=mostafa-osman&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Mostafa-Osman)
 <br/>
 <br/>
