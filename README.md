@@ -47,6 +47,8 @@
   
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+  
+  <p align="right"><img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=mostafa-osman&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="mostafa-osman" /></p>
 </p
 
 
@@ -57,6 +59,12 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-osman&theme=dark" alt="mostafa-osman" />
 </p>
+
+<p align="left"><img width="45%" align="left" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-osman&layout=compact&theme=radical&hide_border=true" alt="mostafa-osman" /></p>
+   
+
+
+
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-osman&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-osman" /> </p>
