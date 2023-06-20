@@ -5,7 +5,7 @@
 <p align="center">
     <a align="center" href="https://github.com/Mostafa-Osman"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=30&lines=Welcome+to+my+GitHub+Profile!;My+Name+Mostafa+Osman;I'm+From+Egypt;I'm+a+Mobile+Developer;" /></a>
   
-  ssdd
+
 </p>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"width="28" /> To connect with me 
 <p align = "left">
