@@ -1,7 +1,7 @@
 
-<a href="https://github.com/Mostafa-Osman">
+<!--<a href="https://github.com/Mostafa-Osman">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Mostafa-Osman&theme=nautilus&data=followers,repositories,stars,commits" alt="GitHub WidgetBox">
-</a>
+</a>-->
 <p align="center">
     <a align="center" href="https://github.com/Mostafa-Osman"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=30&lines=Welcome+to+my+GitHub+Profile!;My+Name+Mostafa+Osman;I'm+From+Egypt;I'm+a+Mobile+Developer;" /></a>
   
