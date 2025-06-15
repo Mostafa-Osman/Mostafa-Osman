@@ -59,20 +59,15 @@
 
 
 ---
+| App                      | Description                      | Links                                                                                                                                        |
+| ------------------------ | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Zeem Customer**        | Ride booking app                 | [Google Play](https://play.google.com/store/apps/details?id=com.zeem.user) / [App Store](https://apps.apple.com/app/id6472701314)            |
+| **Zeem Driver**          | Driver app with live tracking    | [Google Play](https://play.google.com/store/apps/details?id=com.zeem.driver) / [App Store](https://apps.apple.com/app/id6472703498)          |
+| **Ordartamm Customer**   | Food ordering app                | [Google Play](https://play.google.com/store/apps/details?id=com.ordartamm.customer) / [App Store](https://apps.apple.com/app/id6477142127)   |
+| **Ordartamm Restaurant** | Order management for restaurants | [Google Play](https://play.google.com/store/apps/details?id=com.ordartamm.restaurant) / [App Store](https://apps.apple.com/app/id6477151466) |
+| **Ordartamm Delivery**   | Delivery tracking app            | [Google Play](https://play.google.com/store/apps/details?id=com.ordartamm.delivery) / [App Store](https://apps.apple.com/app/id6477152202)   |
+| **MB State**             | Government services app          | [Google Play](https://play.google.com/store/apps/details?id=com.mb.state) / [App Store](https://apps.apple.com/app/id6477821241)             |
 
-### 📱 Featured Projects
-|-----|-------------|
-| App                                                                                                             | Links                                                                                                                                 |
-| ----------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- 
-| **Zeem Customer**      | [Google Play](https://play.google.com/store/apps/details?id=com.zeem.user) / [App Store](https://apps.apple.com/app/id6472701314)            |
-| **Zeem Driver**          | Uber-style app for drivers with live tracking, route polylines, trip states, and service management. | [Google Play](https://play.google.com/store/apps/details?id=com.zeem.driver) / [App Store](https://apps.apple.com/app/id6472703498)          |
-| **Ordartamm Customer**   | Food delivery app for customers with restaurant browsing, cart, order tracking, and notifications.   | [Google Play](https://play.google.com/store/apps/details?id=com.ordartamm.customer) / [App Store](https://apps.apple.com/app/id6477142127)   |
-| **Ordartamm Restaurant** | App for restaurants to receive, manage, and track incoming food orders in real time.                 | [Google Play](https://play.google.com/store/apps/details?id=com.ordartamm.restaurant) / [App Store](https://apps.apple.com/app/id6477151466) |
-| **Ordartamm Delivery**   | Delivery app for couriers to receive assigned deliveries, track routes, and confirm drop-offs.       | [Google Play](https://play.google.com/store/apps/details?id=com.ordartamm.delivery) / [App Store](https://apps.apple.com/app/id6477152202)   |
-| **MB State**             | Government service app for managing citizen requests, application tracking, and public services.     | [Google Play](https://play.google.com/store/apps/details?id=com.mb.state) / [App Store](https://apps.apple.com/app/id6477821241)             |
-
-
----
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-osman&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-osman" /> </p>
