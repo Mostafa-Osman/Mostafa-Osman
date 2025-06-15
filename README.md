@@ -61,14 +61,10 @@
 ---
 
 ### 📱 Featured Projects
-
-| App | Description |
 |-----|-------------|
-| App               | Description                                                                                               | Links                                                                                                                                 |
-| ----------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| App                      | Description                                                                                          | Links                                                                                                                                        |
-| ------------------------ | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------
-| **Zeem Customer**        | Ride-hailing and on-demand service app for customers with real-time tracking and service requests.   | [Google Play](https://play.google.com/store/apps/details?id=com.zeem.user) / [App Store](https://apps.apple.com/app/id6472701314)            |
+| App                                                                                                             | Links                                                                                                                                 |
+| ----------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- 
+| **Zeem Customer**      | [Google Play](https://play.google.com/store/apps/details?id=com.zeem.user) / [App Store](https://apps.apple.com/app/id6472701314)            |
 | **Zeem Driver**          | Uber-style app for drivers with live tracking, route polylines, trip states, and service management. | [Google Play](https://play.google.com/store/apps/details?id=com.zeem.driver) / [App Store](https://apps.apple.com/app/id6472703498)          |
 | **Ordartamm Customer**   | Food delivery app for customers with restaurant browsing, cart, order tracking, and notifications.   | [Google Play](https://play.google.com/store/apps/details?id=com.ordartamm.customer) / [App Store](https://apps.apple.com/app/id6477142127)   |
 | **Ordartamm Restaurant** | App for restaurants to receive, manage, and track incoming food orders in real time.                 | [Google Play](https://play.google.com/store/apps/details?id=com.ordartamm.restaurant) / [App Store](https://apps.apple.com/app/id6477151466) |
