@@ -58,16 +58,6 @@
 <p align="right"><img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=mostafa-osman&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="mostafa-osman" /></p>
 
 
----
-| App                                                                                                                                                 | Description               | Links                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://play.google.com/store/apps/details?id=com.zeem.user" alt="Zeem Customer" width="24" /> **Zeem Customer**                          | Ride booking              | [Play](https://play.google.com/store/apps/details?id=com.zeem.user) / [App Store](https://apps.apple.com/app/id6472701314)            |
-| <img src="https://play.google.com/store/apps/details?id=com.zeem.driver" alt="Zeem Driver" width="24" /> **Zeem Driver**                            | Driver with live tracking | [Play](https://play.google.com/store/apps/details?id=com.zeem.driver) / [App Store](https://apps.apple.com/app/id6472703498)          |
-| <img src="https://play.google.com/store/apps/details?id=com.ordartamm.customer" alt="Ordartamm Customer" width="24" /> **Ordartamm Customer**       | Food ordering             | [Play](https://play.google.com/store/apps/details?id=com.ordartamm.customer) / [App Store](https://apps.apple.com/app/id6477142127)   |
-| <img src="https://play.google.com/store/apps/details?id=com.ordartamm.restaurant" alt="Ordartamm Restaurant" width="24" /> **Ordartamm Restaurant** | Restaurant orders         | [Play](https://play.google.com/store/apps/details?id=com.ordartamm.restaurant) / [App Store](https://apps.apple.com/app/id6477151466) |
-| <img src="https://play.google.com/store/apps/details?id=com.ordartamm.delivery" alt="Ordartamm Delivery" width="24" /> **Ordartamm Delivery**       | Delivery tracking         | [Play](https://play.google.com/store/apps/details?id=com.ordartamm.delivery) / [App Store](https://apps.apple.com/app/id6477152202)   |
-| <img src="https://play.google.com/store/apps/details?id=com.mb.state" alt="MB State" width="24" /> **MB State**                                     | Public services           | [Play](https://play.google.com/store/apps/details?id=com.mb.state) / [App Store](https://apps.apple.com/app/id6477821241)             |
-
 
 
 
