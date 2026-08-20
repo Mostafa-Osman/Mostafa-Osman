@@ -8,7 +8,7 @@
 5+ years building and shipping production iOS & Android applications across Saudi Arabia and the MENA region.
 </p>
 
-<a href="https://mostafa-osman-portfolio.netlify.app">
+<a href="https://portfolio-tawny-one-symohdonno.vercel.app/portfolio">
   <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=C9A227" alt="Portfolio">
 </a>
 <a href="https://www.linkedin.com/in/mostafa15">
@@ -133,23 +133,7 @@ My experience includes:
 * 🔔 Push notifications and real-time updates
 * 📄 Contract and digital workflow systems
 
----
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Osman&theme=dark&hide_border=true" alt="GitHub Streak">
-
-<br><br>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Osman&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Osman&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-
-</div>
-
----
 
 ## Education & Highlights
 
