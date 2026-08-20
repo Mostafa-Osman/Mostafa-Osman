@@ -1,23 +1,28 @@
 <div align="center">
 
-<a href="https://github.com/Mostafa-Osman">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Mostafa-Osman&theme=nautilus&data=followers,repositories,stars,commits" alt="GitHub profile stats">
+<h1>Hi, I'm Mostafa Osman 👋</h1>
+
+<h3>Senior Flutter & Mobile Software Engineer</h3>
+
+<p>
+5+ years building and shipping production iOS & Android applications across Saudi Arabia and the MENA region.
+</p>
+
+<a href="https://mostafa-osman-portfolio.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=C9A227" alt="Portfolio">
 </a>
-
-<a href="https://github.com/Mostafa-Osman">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=600&size=28&pause=1200&color=C9A227&center=true&vCenter=true&width=720&lines=Mostafa+Osman;Senior+Flutter+%26+Mobile+Software+Engineer;5%2B+years+shipping+production+apps;Flutter+%C2%B7+Dart+%C2%B7+iOS+%C2%B7+Android;Building+for+Saudi+%26+MENA" alt="Mostafa Osman — Senior Flutter Developer">
+<a href="https://www.linkedin.com/in/mostafa15">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-**Senior Flutter & Mobile Software Engineer** · Cairo, Egypt  
-5+ years shipping production iOS & Android apps across the MENA region.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=C9A227)](https://mostafa-osman-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa15)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafaosman225@gmail.com?subject=Hello%20Mostafa)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MostafaOsman225)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mostafaosman15)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mosman)
-[![Profile views](https://komarev.com/ghpvc/?username=Mostafa-Osman&label=Profile%20views&color=C9A227&style=for-the-badge)](https://github.com/Mostafa-Osman)
+<a href="mailto:mostafaosman225@gmail.com?subject=Hello%20Mostafa">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/Mostafa-Osman">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://codeforces.com/profile/mosman">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+</a>
 
 </div>
 
@@ -25,92 +30,141 @@
 
 ## About
 
-I build and ship production-grade Flutter applications for iOS and Android. I own features end-to-end — architecture, API integration, state management, payments, testing, CI/CD, debugging, and store releases.
+I build and ship **production-grade Flutter applications for iOS and Android**, with experience owning features end-to-end — from architecture and API integration to state management, payments, testing, CI/CD, debugging, and store releases.
 
-Currently **Senior Flutter Developer at IT Cores**, working on production products for Saudi and MENA businesses.
+Currently working as a **Senior Flutter Developer at IT Cores**, building and maintaining production mobile products for businesses across Saudi Arabia and the MENA region.
 
-- 🔭 Shipping production Flutter apps — maps, payments, notifications, and store-ready releases
-- 💼 Focus: scalable architecture, maintainable code, and reliable delivery
-- 🌍 Products across booking, delivery, workforce, services, e-commerce, and location-based apps
-- 📫 Reach me at **mostafaosman225@gmail.com**
+* 📱 5+ years of professional mobile development experience
+* 🏗️ Focused on scalable architecture, maintainable code, and reliable delivery
+* 💳 Experience integrating multiple payment platforms and complex payment flows
+* 🔥 Hands-on experience with Firebase, authentication, notifications, and real-time services
+* 🗺️ Experience building location-based features, maps, tracking, and geolocation workflows
+* 🚀 Experienced with CI/CD, app distribution, and iOS & Android production releases
+* 🤖 Using AI-assisted development tools such as **Cursor and Claude** to improve development speed and productivity
+* 🌍 Building products for Saudi Arabia and the wider MENA market
 
 ---
 
 ## Experience
 
-| Role | Company | Period |
-| --- | --- | --- |
-| **Senior Flutter Developer** | IT Cores · Cairo, Hybrid | Sep 2025 — Present |
-| **Mobile Software Engineer** | Advanced Solutions, Saudi Arabia · Remote | Apr 2024 — Sep 2025 |
-| **Mobile Software Engineer** | Nocks (MB) · On-site | Nov 2023 — May 2024 |
-| **Mobile Software Engineer** | Dipdux Analytica · Remote | Feb 2021 — Nov 2023 |
-| **Competitive Programming Instructor** *(part-time)* | Coach Academy | Jul 2022 — Sep 2022 |
+| Role                                   | Company                                    | Period              |
+| -------------------------------------- | ------------------------------------------ | ------------------- |
+| **Senior Flutter Developer**           | IT Cores · Cairo, Egypt · Hybrid           | Sep 2025 — Present  |
+| **Mobile Software Engineer**           | Advanced Solutions · Saudi Arabia · Remote | Apr 2024 — Sep 2025 |
+| **Mobile Software Engineer**           | Nocks (MB) · On-site                       | Nov 2023 — May 2024 |
+| **Mobile Software Engineer**           | Dipdux Analytica · Remote                  | Feb 2021 — Nov 2023 |
+| **Competitive Programming Instructor** | Coach Academy · Part-time                  | Jul 2022 — Sep 2022 |
 
 ---
 
-## Shipped products
+## Shipped Products
 
-13 production Flutter apps on the App Store and Google Play — customer, driver, restaurant, and internal workflows.
+**13 production Flutter applications shipped across iOS and Android**, covering customer, driver, restaurant, workforce, and internal business workflows.
 
-| Product | Domain |
-| --- | --- |
-| **Arco Services** | Manpower booking & payments — Saudi Arabia |
-| **Zeem** / **Zeem Driver** | Ride-hailing, live tracking, Apple Pay / STC Pay |
-| **TammOrder** (Customer · Restaurant · Delivery) | Food ordering and logistics |
-| **MB State** / **CRM** / **Intra** | Real estate discovery, sales follow-up, HR |
-| **Maghsala** (Customer · Store · Delivery) | Laundry booking, operations, and tracking |
-| **Printout** | Printing platform with live order tracking |
+| Product                    | Domain                                                     |
+| -------------------------- | ---------------------------------------------------------- |
+| **Arco Services**          | Manpower booking & payments — Saudi Arabia                 |
+| **Zeem / Zeem Driver**     | Ride-hailing, live tracking, Apple Pay & STC Pay           |
+| **TammOrder**              | Food ordering, restaurant operations & delivery            |
+| **MB State / CRM / Intra** | Real estate, sales follow-up & internal business workflows |
+| **Maghsala**               | Laundry booking, operations & delivery tracking            |
+| **Printout**               | Printing platform with live order tracking                 |
 
-Portfolio: [mostafa-osman-portfolio.netlify.app](https://mostafa-osman-portfolio.netlify.app)
-
----
-
-## Stack
-
-**Mobile** · Flutter · Dart · iOS · Android · Responsive UI · Localization
-
-**Architecture** · Clean Architecture · SOLID · Repository Pattern · Feature-First · Dependency Injection
-
-**State** · BLoC / Cubit · Riverpod · GetX
-
-**Backend & data** · REST APIs · Firebase · Authentication · Push Notifications · Maps & Location · Real-time
-
-**Payments** · Tamara · Apple Pay · STC Pay · PayTabs · Paymob · Moyasar
-
-**Delivery** · Testing · Crashlytics · CI/CD · GitHub Actions · App Store Connect · Google Play Console
-
-<p align="left">
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"></a>
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"></a>
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"></a>
-  <a href="https://developer.apple.com/ios"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"></a>
-  <a href="https://firebase.google.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"></a>
-  <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"></a>
-  <a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"></a>
-  <a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"></a>
-  <a href="https://www.figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"></a>
-</p>
+Explore more projects on my [Portfolio](https://mostafa-osman-portfolio.netlify.app).
 
 ---
 
-## GitHub
+## Engineering Stack
+
+### Mobile
+
+**Flutter · Dart · iOS · Android · Responsive UI · Localization**
+
+### Architecture
+
+**Clean Architecture · SOLID · Repository Pattern · Feature-First Architecture · Dependency Injection**
+
+### State Management
+
+**BLoC / Cubit · Riverpod · GetX**
+
+### Backend & Data
+
+**REST APIs · Firebase · Firebase Authentication · Cloud Firestore · Push Notifications · WebSockets · Real-time Services**
+
+### Payments
+
+**Tamara · Apple Pay · STC Pay · PayTabs · Paymob · Moyasar**
+
+### Maps & Location
+
+**Google Maps · Geolocation · Geocoding · Location Services · Live Tracking**
+
+### Quality & Delivery
+
+**Unit Testing · Widget Testing · Integration Testing · Crashlytics · Git · GitHub Actions · CI/CD · Fastlane · Firebase App Distribution · App Store Connect · Google Play Console**
+
+---
+
+## AI-Assisted Development
+
+I use AI as an engineering productivity tool — not as a replacement for engineering decisions.
+
+**Cursor · Claude · AI-assisted debugging · Refactoring · Code generation · Documentation · Problem analysis**
+
+I use AI to accelerate development while maintaining ownership of architecture, code quality, testing, and production decisions.
+
+---
+
+## What I Work On
+
+I enjoy building mobile products where reliability, scalability, and real-world business requirements matter.
+
+My experience includes:
+
+* 💰 Payment and subscription workflows
+* 📍 Maps, geolocation, and live tracking
+* 🚚 Delivery and logistics platforms
+* 🧺 Service and booking applications
+* 👷 Workforce management platforms
+* 🛒 E-commerce and food delivery
+* 💬 Customer support and communication features
+* 🔐 Authentication and verification
+* 🔔 Push notifications and real-time updates
+* 📄 Contract and digital workflow systems
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Osman&theme=dark&hide_border=true" alt="GitHub streak">
-  <br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Osman&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Osman&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats">
-</div>
 
-![Contribution snake](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Osman&theme=dark&hide_border=true" alt="GitHub Streak">
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Osman&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Osman&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+
+</div>
 
 ---
 
-## Education & highlights
+## Education & Highlights
 
-- **B.Sc. Computer Science** — Thebes Higher Institute, Faculty of Computers & IT (2018–2022) · Very Good · Graduation project: Excellent
-- **7th place** — ECPC 2020 Qualifications
-- Competitive programming instructor at Coach Academy (ACPC training for Saudi university students)
-- Languages: Arabic (native) · English (professional working)
+* 🎓 **B.Sc. Computer Science** — Thebes Higher Institute, Faculty of Computers & IT (2018–2022)
 
-Let's connect and build something meaningful.
+  * Overall grade: **Very Good**
+  * Graduation project: **Excellent**
+* 🏆 **7th Place — ECPC 2020 Qualifications**
+* 👨‍🏫 Competitive Programming Instructor at **Coach Academy**, delivering ACPC training for Saudi university students
+* 🌐 **Arabic:** Native · **English:** Professional Working Proficiency
+
+---
+
+<div align="center">
+
+### Let's connect and build something meaningful.
+
+</div>
