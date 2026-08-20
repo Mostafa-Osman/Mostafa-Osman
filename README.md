@@ -2,6 +2,10 @@
 
 <h1>Hi, I'm Mostafa Osman 👋</h1>
 
+<a href="https://github.com/Mostafa-Osman">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Mostafa-Osman&theme=nautilus&data=followers,repositories,stars,commits" alt="GitHub WidgetBox">
+</a> 
+
 <h3>Senior Flutter & Mobile Software Engineer</h3>
 
 <p>
