@@ -1,84 +1,116 @@
+<div align="center">
 
 <a href="https://github.com/Mostafa-Osman">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Mostafa-Osman&theme=nautilus&data=followers,repositories,stars,commits" alt="GitHub WidgetBox">
-</a> 
-<p align="center">
-    <a align="center" href="https://github.com/Mostafa-Osman"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=30&lines=Welcome+to+my+GitHub+Profile!;My+Name+Mostafa+Osman;I'm+From+Egypt;I'm+a+Mobile+Developer;" /></a>
-  
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Mostafa-Osman&theme=nautilus&data=followers,repositories,stars,commits" alt="GitHub profile stats">
+</a>
 
-</p>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"width="28" /> To connect with me 
-<p align = "left">
-  
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa15)
-[![codeforces badge](https://img.shields.io/badge/codeforces-0077B5?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mosman)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mostafaosman15)
+<a href="https://github.com/Mostafa-Osman">
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=600&size=28&pause=1200&color=C9A227&center=true&vCenter=true&width=720&lines=Mostafa+Osman;Senior+Flutter+%26+Mobile+Software+Engineer;5%2B+years+shipping+production+apps;Flutter+%C2%B7+Dart+%C2%B7+iOS+%C2%B7+Android;Building+for+Saudi+%26+MENA" alt="Mostafa Osman — Senior Flutter Developer">
+</a>
+
+**Senior Flutter & Mobile Software Engineer** · Cairo, Egypt  
+5+ years shipping production iOS & Android apps across the MENA region.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=C9A227)](https://mostafa-osman-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa15)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafaosman225@gmail.com?subject=Hello%20Mostafa)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MostafaOsman225)
- <a href="mailto:mostafaosman225@gmail.com?subject=Hello%20Hadi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
-[![Visits Badge](https://komarev.com/ghpvc/?username=mostafa-osman&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Mostafa-Osman)
-<br/>
-<br/>
-<!-- <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
-</a> -->
-<img align='right' src="https://i.ibb.co/nk9gvXz/xero-code.gif" width="20%" alt="giphy">
- 🙂 About Me  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mostafaosman15)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mosman)
+[![Profile views](https://komarev.com/ghpvc/?username=Mostafa-Osman&label=Profile%20views&color=C9A227&style=for-the-badge)](https://github.com/Mostafa-Osman)
 
-- 🔭 I’m currently working on **Mobile Development**
-- 🌱 I’m currently learning **Competitive Programming**
-- 👯 I’m looking to collaborate on **Mobile Development**
-- 💬 Ask me about Anything here! I am happy to help. 
-- 😄 Pronouns : **He/Him/His**
+</div>
 
+---
 
-<br/>
-<br/>
- 
-![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
+## About
 
-<a align="left">Languages and Tools: </a>
+I build and ship production-grade Flutter applications for iOS and Android. I own features end-to-end — architecture, API integration, state management, payments, testing, CI/CD, debugging, and store releases.
+
+Currently **Senior Flutter Developer at IT Cores**, working on production products for Saudi and MENA businesses.
+
+- 🔭 Shipping production Flutter apps — maps, payments, notifications, and store-ready releases
+- 💼 Focus: scalable architecture, maintainable code, and reliable delivery
+- 🌍 Products across booking, delivery, workforce, services, e-commerce, and location-based apps
+- 📫 Reach me at **mostafaosman225@gmail.com**
+
+---
+
+## Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| **Senior Flutter Developer** | IT Cores · Cairo, Hybrid | Sep 2025 — Present |
+| **Mobile Software Engineer** | Advanced Solutions, Saudi Arabia · Remote | Apr 2024 — Sep 2025 |
+| **Mobile Software Engineer** | Nocks (MB) · On-site | Nov 2023 — May 2024 |
+| **Mobile Software Engineer** | Dipdux Analytica · Remote | Feb 2021 — Nov 2023 |
+| **Competitive Programming Instructor** *(part-time)* | Coach Academy | Jul 2022 — Sep 2022 |
+
+---
+
+## Shipped products
+
+13 production Flutter apps on the App Store and Google Play — customer, driver, restaurant, and internal workflows.
+
+| Product | Domain |
+| --- | --- |
+| **Arco Services** | Manpower booking & payments — Saudi Arabia |
+| **Zeem** / **Zeem Driver** | Ride-hailing, live tracking, Apple Pay / STC Pay |
+| **TammOrder** (Customer · Restaurant · Delivery) | Food ordering and logistics |
+| **MB State** / **CRM** / **Intra** | Real estate discovery, sales follow-up, HR |
+| **Maghsala** (Customer · Store · Delivery) | Laundry booking, operations, and tracking |
+| **Printout** | Printing platform with live order tracking |
+
+Portfolio: [mostafa-osman-portfolio.netlify.app](https://mostafa-osman-portfolio.netlify.app)
+
+---
+
+## Stack
+
+**Mobile** · Flutter · Dart · iOS · Android · Responsive UI · Localization
+
+**Architecture** · Clean Architecture · SOLID · Repository Pattern · Feature-First · Dependency Injection
+
+**State** · BLoC / Cubit · Riverpod · GetX
+
+**Backend & data** · REST APIs · Firebase · Authentication · Push Notifications · Maps & Location · Real-time
+
+**Payments** · Tamara · Apple Pay · STC Pay · PayTabs · Paymob · Moyasar
+
+**Delivery** · Testing · Crashlytics · CI/CD · GitHub Actions · App Store Connect · Google Play Console
 
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  
-  
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  
-  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-  
-</p
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-osman&theme=dark" alt="mostafa-osman" />
+  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"></a>
+  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"></a>
+  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"></a>
+  <a href="https://developer.apple.com/ios"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"></a>
+  <a href="https://firebase.google.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"></a>
+  <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"></a>
+  <a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"></a>
+  <a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"></a>
+  <a href="https://www.figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"></a>
 </p>
 
-<p align="left"><img width="45%" align="left" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-osman&layout=compact&theme=radical&hide_border=true" alt="mostafa-osman" /></p>
-<p align="right"><img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=mostafa-osman&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="mostafa-osman" /></p>
+---
 
+## GitHub
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Osman&theme=dark&hide_border=true" alt="GitHub streak">
+  <br>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Osman&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Osman&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats">
+</div>
 
+![Contribution snake](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
+---
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-osman&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-osman" /> </p>
- -->
- <!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mostafa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.fb.com/mostafaosman15/" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/mosman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mosman" height="30" width="40" /></a>
+## Education & highlights
 
+- **B.Sc. Computer Science** — Thebes Higher Institute, Faculty of Computers & IT (2018–2022) · Very Good · Graduation project: Excellent
+- **7th place** — ECPC 2020 Qualifications
+- Competitive programming instructor at Coach Academy (ACPC training for Saudi university students)
+- Languages: Arabic (native) · English (professional working)
 
-</p> -->
- <!-- logo flutter -->
-<!-- <p align="center">
-<img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png"/>
-</p> -->
-<!-- <p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" alt="mostafa-osman" /> </p>
- -->
- 
- <!--   <a href="https://fb.com/mostafaosman15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.fb.com/mostafaosman15/" height="30" width="40" /></a> -->
- 
- <!-- <h1 align="center">Hi there👋, I'm Mostafa 😀</h1>
-<h2 align="center">A passionate flutter developer from Egypt <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ea-1f1ec.png"width=30/>
-</h2> -->
+Let's connect and build something meaningful.
